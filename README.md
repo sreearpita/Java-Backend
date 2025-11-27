@@ -261,6 +261,7 @@ In this repository, you will find :
 
 ### Interview Questions
 - [Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
+- [Java and Spring Boot Interview Questions](https://boldcoder.blogspot.com/2024/08/java-and-spring-boot-interview.html)
 - [Spring Interview Questions](https://www.interviewbit.com/spring-interview-questions/)
 - [REST API Interview Questions](https://www.interviewbit.com/rest-api-interview-questions/)
 - [Back-End Developer Interview Questions](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
