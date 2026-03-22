@@ -34,7 +34,7 @@ In this repository, you will find :
         <li><a> Threads </a></li>
         <li><a> Serverlets and JSP’s </a></li>
         <li><a> Concurrency </a></li>
-        <li><a> Garbge Collection </a></li>
+        <li><a> Garbage Collection </a></li>
       </ul>
     </li>
     <li><a> Build Tools (Maven, Gradle, Ant) </a></li>
@@ -71,7 +71,7 @@ In this repository, you will find :
         <li><a> Annotations </a></li>
         <li><a> MVC Structure </a></li>
         <li><a> Configurations </a></li>
-        <li><a> Integerating different Libraries/Frameworks </a></li>
+        <li><a> Integrating different Libraries/Frameworks </a></li>
         <li><a> Profiles </a></li>
       </ul>
     </li>
@@ -102,7 +102,7 @@ In this repository, you will find :
       <a> Properties/YAML </a>
     </li>
     <li>
-      <a> Integerations with other Libraries/Framworks </a>
+      <a> Integrations with other Libraries/Framworks </a>
     </li>
   </ol>
 </details>
@@ -206,7 +206,7 @@ In this repository, you will find :
       <a> Devops </a>
       <ul>
         <li><a> Docker </a></li>
-        <li><a> Kubernates </a></li>
+        <li><a> Kubernetes </a></li>
         <li><a> Cloud (AWS, GCP, Azure) </a></li>
       </ul>
     </li>
