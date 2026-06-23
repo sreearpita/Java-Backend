@@ -32,13 +32,13 @@ In this repository, you will find :
         <li><a> Design Patterns </a></li>
         <li><a> JVM </a></li>
         <li><a> Threads </a></li>
-        <li><a> Serverlets and JSP’s </a></li>
+        <li><a> Servlets and JSP’s </a></li>
         <li><a> Concurrency </a></li>
-        <li><a> Garbge Collection </a></li>
+        <li><a> Garbage Collection </a></li>
       </ul>
     </li>
     <li><a> Build Tools (Maven, Gradle, Ant) </a></li>
-    <li><a> Servers (Tomcat, Weblogic, JBOSS, WebShpere, Jetty) </a></li>
+    <li><a> Servers (Tomcat, Weblogic, JBOSS, WebSphere, Jetty) </a></li>
     <li>
       <a> Testing </a>
       <ul>
@@ -52,7 +52,7 @@ In this repository, you will find :
   </ol>
 </details>
 
-## 2. Spring Framwork
+## 2. Spring Framework
 <details open>
 <summary> <b>Learn Spring Framework</b> </summary>
   <ol>
@@ -71,7 +71,7 @@ In this repository, you will find :
         <li><a> Annotations </a></li>
         <li><a> MVC Structure </a></li>
         <li><a> Configurations </a></li>
-        <li><a> Integerating different Libraries/Frameworks </a></li>
+        <li><a> Integrating different Libraries/Frameworks </a></li>
         <li><a> Profiles </a></li>
       </ul>
     </li>
@@ -102,7 +102,7 @@ In this repository, you will find :
       <a> Properties/YAML </a>
     </li>
     <li>
-      <a> Integerations with other Libraries/Framworks </a>
+      <a> Integrations with other Libraries/Frameworks </a>
     </li>
   </ol>
 </details>
@@ -206,7 +206,7 @@ In this repository, you will find :
       <a> Devops </a>
       <ul>
         <li><a> Docker </a></li>
-        <li><a> Kubernates </a></li>
+        <li><a> Kubernetes </a></li>
         <li><a> Cloud (AWS, GCP, Azure) </a></li>
       </ul>
     </li>
@@ -225,6 +225,73 @@ In this repository, you will find :
         <li><a> SQS </a></li>
         <li><a> Kafka </a></li>
         <li><a> RabbitMQ </a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+## 8. Software Engineering for Backend
+<details open>
+<summary> <b>Learn these Backend concepts</b> </summary>
+  <ol>
+    <li>
+      <a> Clean Code </a>
+    </li>
+    <li>
+      <a> SOLID Principles </a>
+    </li>
+    <li>
+      <a> API Versioning </a>
+    </li>
+    <li>
+      <a> Idempotency </a>
+    </li>
+    <li>
+      <a> Rate Limiting </a>
+    </li>
+    <li>
+      <a> System Design Basics </a>
+      <ul>
+        <li><a> Scalability, Availability, Reliability </a></li>
+        <li><a> Load Balancing </a></li>
+        <li><a> Circuit Breaker </a></li>
+        <li><a> CDN </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Database Scaling </a>
+      <ul>
+        <li><a> Replication </a></li>
+        <li><a> Partitioning </a></li>
+        <li><a> Sharding </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Redis </a>
+      <ul>
+        <li><a> Caching </a></li>
+        <li><a> Distributed Locks </a></li>
+        <li><a> Pub/Sub </a></li>
+        <li><a> Rate Limiting </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Messaging Systems </a>
+      <ul>
+        <li><a> Kafka </a></li>
+        <li><a> RabbitMQ </a></li>
+        <li><a> Dead Letter Queue </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Observability </a>
+    <ul>
+        <li><a> Logging & Tracing </a></li>
+        <li><a> Prometheus </a></li>
+        <li><a> Grafana </a></li>
+        <li><a> OpenTelemetry </a></li>
+      </ul>
+    </li>
       </ul>
     </li>
   </ol>
